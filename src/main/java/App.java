@@ -91,8 +91,8 @@ public class App
      * You are free to modify this function in any way, and you are free
      * to write additional, helper functions for this function to call.
      *
-     * You may not modify other parts of the code, and you may not access
-     * PersonManager's private members.
+     * You may not modify other parts of the code or modify the PersonManager class
+     * in any way, and you may not access PersonManager's private members.
      *
      * You should be able to build and run this code with a simple
      * "gradle build" and "java -jar ./build/libs/registerpersons.jar" from the
